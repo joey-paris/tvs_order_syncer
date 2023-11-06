@@ -1,0 +1,2 @@
+class UpdatePayload < ApplicationRecord
+end
